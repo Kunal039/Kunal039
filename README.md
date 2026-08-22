@@ -1,15 +1,3 @@
-<!--
-  ============================================================
-  Username is set to: Kunal039
-  Still TODO before pushing:
-    1. In "🚀 Featured Work" below, swap REPLACE_WITH_REPO_1/2
-       for your actual repo names to pin your best work.
-    2. In "📡 Connect With Me" below, swap YOUR_LINKEDIN,
-       YOUR_TWITTER, and YOUR_PORTFOLIO_URL for your real links
-       (or delete the badges you don't want).
-  ============================================================
--->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:2563EB,100:06B6D4&height=260&section=header&text=Hi%20There%2C%20I'm%20Kunal%20%F0%9F%91%8B&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engineer%20%7C%20Builder%20%7C%20Relentless%20Problem-Solver&descAlignY=58&descSize=18" width="100%"/>
