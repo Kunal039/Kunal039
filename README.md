@@ -12,7 +12,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:2563EB,100:06B6D4&height=260&section=header&text=Hi%20There%2C%20I'm%20Goutam%20%F0%9F%91%8B&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engineer%20%7C%20Builder%20%7C%20Relentless%20Problem-Solver&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:2563EB,100:06B6D4&height=260&section=header&text=Hi%20There%2C%20I'm%20Kunal%20%F0%9F%91%8B&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engineer%20%7C%20Builder%20%7C%20Relentless%20Problem-Solver&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=I+don't+just+write+code%2C+I+design+systems.;Turning+ambiguous+problems+into+elegant+architecture.;Full-Stack+Engineer+%7C+Cloud-Native+%7C+AI-Augmented+Dev.;Always+shipping.+Always+learning.+Always+curious." alt="Typing SVG" />
@@ -34,7 +34,7 @@
 
 ```yaml
 engineer:
-  name:            "Goutam Singla"
+  name:            "Kunal Mittal"
   role:            "Software Engineer"
   focus:           ["System Design", "Full-Stack Development", "Cloud & DevOps", "Applied AI"]
   philosophy:      "Simplicity is the ultimate sophistication."
