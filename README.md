@@ -72,23 +72,13 @@ engineer:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Kunal039&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=2563EB&icon_color=06B6D4&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=Kunal039&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=2563EB&icon_color=06B6D4&text_color=c9d1d9"/>
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Kunal039&theme=tokyonight&hide_border=true&background=0D1117&ring=2563EB&fire=06B6D4&currStreakLabel=2563EB"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal039&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2563EB&text_color=c9d1d9&langs_count=10"/>
+<img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=Kunal039&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2563EB&text_color=c9d1d9&langs_count=10"/>
 <img height="165" src="https://github-readme-activity-graph.vercel.app/graph?username=Kunal039&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2563EB&line=06B6D4&point=ffffff"/>
 
 </div>
-
-<div align="center">
-
-### 🏆 Trophy Cabinet
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Kunal039&theme=tokyonight&no-frame=true&no-bg=true&row=1&margin-w=15&column=7)
-
-</div>
-
-<br/>
 
 ## 🐍 Contribution Snake
 
@@ -105,8 +95,8 @@ engineer:
 <div align="center">
 
 <a href="https://github.com/Kunal039?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kunal039&repo=synapse-resilient-supply-chain&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kunal039&repo=LeetCode&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/pin/?username=Kunal039&repo=synapse-resilient-supply-chain&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/pin/?username=Kunal039&repo=LeetCode&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </a>
 
 </div>
