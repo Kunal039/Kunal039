@@ -117,11 +117,9 @@ engineer:
 <div align="center">
 
 <a href="https://github.com/Kunal039?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kunal039&repo=REPLACE_WITH_REPO_1&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kunal039&repo=REPLACE_WITH_REPO_2&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kunal039&repo=synapse-resilient-supply-chain&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kunal039&repo=LeetCode&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </a>
-
-<sub>Replace <code>REPLACE_WITH_REPO_1/2</code> with your actual repo names to pin your best work here.</sub>
 
 </div>
 
